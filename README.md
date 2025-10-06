@@ -1,8 +1,11 @@
 # Shinkansen Passenger Experience Prediction — Hackathon Report
 
 **Competition Dates:** Oct 1, 11:00 PM – Oct 5, 11:00 PM
+
 **Placement:** 4th out of 37 teams
+
 **My Final Score:** 95.84855% Accuracy
+
 **Winning (1st place) Score:** 95.96090%
 
 ---
