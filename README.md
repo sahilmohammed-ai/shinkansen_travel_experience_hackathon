@@ -6,7 +6,7 @@
 
 **My Final Score:** 95.84855% Accuracy
 
-**Winning (1st place) Score:** 95.96090%
+**Winning Score:** 95.96090%
 
 ---
 
